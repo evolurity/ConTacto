@@ -1,19 +1,8 @@
-# Travel and Tourism Management System MERN
+# React + Vite
 
-# Screenshots
-![HomePage](https://github.com/Sanjayng125/MERN-Travel-Tourism-App/assets/106653066/504bb803-217d-402a-9087-fed08986d6b1)
-![BookPackagePage](https://github.com/Sanjayng125/MERN-Travel-Tourism-App/assets/106653066/9733432f-e462-4eff-819e-66cba510c8b6)
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-# Admin Panel
-![Screenshot (23)](https://github.com/Sanjayng125/MERN-Travel-Tourism-App/assets/106653066/8b4409ab-d8a5-4fd8-bc3d-987667fba72c)
-![AddPackageAdminPage](https://github.com/Sanjayng125/MERN-Travel-Tourism-App/assets/106653066/79c05dd8-45f8-477d-801d-6d1432e042fe)
-![AllPaymentsAdminPage](https://github.com/Sanjayng125/MERN-Travel-Tourism-App/assets/106653066/de0963bf-3f1b-47c4-ab0f-bbae33371150)
+Currently, two official plugins are available:
 
-# .ENV
-MONGO_URL=your_mongo_url<br/>
-JWT_SECRET=secret<br/>
-BRAINTREE_MERCHANT_ID=your_braintree_id<br/>
-BRAINTREE_PUBLIC_KEY=your_braintree_public_key<br/>
-BRAINTREE_PRIVATE_KEY=your_braintree_private_key<br/>
-NODE_ENV_CUSTOM=devolopment/production<br/>
-SERVER_URL=your_server_url
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
